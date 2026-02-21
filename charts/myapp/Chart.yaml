@@ -1,0 +1,6 @@
+apiVersion: v2
+name: myapp
+description: A simple demo application chart for GitOps workflows.
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
